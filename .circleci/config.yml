@@ -13,4 +13,4 @@ jobs:
     steps:
       - checkout
 
-      - run: curl google.com 
+      - run: curl ifconfig.co/
